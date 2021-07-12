@@ -1,0 +1,42 @@
+{
+    "Actor": {
+        "types": ["character", "opposition"],
+        "character":{
+            "name" : "",
+            "risk" : "",
+            "traits" : {
+                "archetype" : "",
+                "qualities" : [],
+                "abilities" : [],
+                "misfortunes": [],
+                "confused" : false,
+                "adreline": false
+            }
+            },
+        "opposition" :{
+            "name" : "",
+            "difficulty_and_danger" : [],
+            "misfortunes_examples": [],
+            "complication_examples": [],
+            "info" : ""
+            
+         }
+        },
+    "Item": {
+        "types": ["resource", "lesson", "trait"]},
+        "resource" : {
+            "name": "",
+            "quality": "",
+            "quantity": "",
+            "description": ""
+        },
+        "lesson" : {
+            "name": "",
+            "effect": ""
+        },
+        "trait": {
+            "name": "",
+            "effect": ""
+        }
+
+}
